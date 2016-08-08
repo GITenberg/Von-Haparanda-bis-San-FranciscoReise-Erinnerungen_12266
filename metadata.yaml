@@ -1,0 +1,36 @@
+_repo: Von-Haparanda-bis-San-FranciscoReise-Erinnerungen_12266
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Wasserzieher, Ernst
+    birthdate: 1860
+    deathdate: 1927
+    gutenberg_agent_id: '4287'
+    url: http://www.gutenberg.org/2009/agents/4287
+description: ''
+gutenberg_bookshelf:
+- DE Sachbuch
+- United States
+gutenberg_issued: '2004-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12266'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Latvia -- Description and travel'
+- !lcsh 'Denmark -- Description and travel'
+- !lcc 'E151'
+- !lcsh 'United States -- Description and travel'
+- !lcc 'DK'
+- !lcsh 'Sweden -- Description and travel'
+- !lcc 'DD'
+- !lcsh 'Germany -- Description and travel'
+- !lcc 'DL'
+- GITenberg
+title: 'Von Haparanda bis San Francisco
+
+  Reise-Erinnerungen'
+url: http://www.gutenberg.org/ebooks/12266
